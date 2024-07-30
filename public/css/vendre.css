@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #f5f6fa;
+    scroll-behavior: smooth;
+    min-height: 100vh;
+}
+
+.par {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh; /* Optional: to center the entire .fils div vertically in the viewport */
+    flex-wrap: wrap;
+}
+
+.fils {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;     /* Center vertically */
+    width: 100%;
+    max-width: 300px; /* Adjust as needed */
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+.fils p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 1.5;
+    color: #333;
+    text-align: justify;
+    text-decoration: none;
+    margin: 10px 0;
+    padding: 5px;
+}
+
+.fils:hover {
+    cursor: pointer;
+    background-color: #e0e0e0; /* Optional: to indicate hover */
+}
+
