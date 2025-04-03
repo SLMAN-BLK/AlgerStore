@@ -1,5 +1,4 @@
-projet de site e-commerce avec PHP laravel 
-# AlgerStore - Projet E-commerce avec Laravel
+projet de site e-commerce avec PHP laravel# AlgerStore - Projet E-commerce avec Laravel
 
 ## Description
 AlgerStore est une plateforme de commerce en ligne développée en PHP avec Laravel. Ce projet utilise une base de données MySQL gérée via phpMyAdmin. Il permet aux utilisateurs de s'inscrire, se connecter, ajouter des produits à vendre, consulter leurs produits et leurs commandes.
@@ -21,28 +20,28 @@ AlgerStore est une plateforme de commerce en ligne développée en PHP avec Lara
 Voici les captures d'écran du projet, illustrant les différentes fonctionnalités du site :
 
 1. **Page d'accueil**
-   ![Cap 1 - Accueil](./path/to/cap1.png)
+   ![Cap 1 - Accueil](./images/cap1.png)
 
 2. **Page d'inscription**
-   ![Cap 2 - Inscription](./path/to/cap2_register.png)
+   ![Cap 2 - Inscription](./images/cap2_register.png)
 
 3. **Page de connexion**
-   ![Cap 3 - Connexion](./path/to/cap3_login.png)
+   ![Cap 3 - Connexion](./images/cap3_login.png)
 
 4. **Utilisateur connecté**
-   ![Cap 4 - Connecté](./path/to/cap4_connected.png)
+   ![Cap 4 - Connecté](./images/cap4_connected.png)
 
 5. **Tableau de bord (Home)**
-   ![Cap 5 - Home](./path/to/cap5_home.png)
+   ![Cap 5 - Home](./images/cap5_home.png)
 
 6. **Ajout d'un produit à vendre**
-   ![Cap 6 - Ajout de produit](./path/to/cap6_ajouter_un_element.png)
+   ![Cap 6 - Ajout de produit](./images/cap6_ajouter_un_element.png)
 
 7. **Liste des produits**
-   ![Cap 7 - Mes Produits](./path/to/cap7_mes_produit.png)
+   ![Cap 7 - Mes Produits](./images/cap7_mes_produit.png)
 
 8. **Liste des commandes**
-   ![Cap 8 - Mes Commandes](./path/to/cap8_mes_command.png)
+   ![Cap 8 - Mes Commandes](./images/cap8_mes_command.png)
 
 ## Installation
 
